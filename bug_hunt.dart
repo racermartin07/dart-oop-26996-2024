@@ -6,7 +6,6 @@ class Phone {
     _brand = brand;
     _battery = battery;
   }
-
   int get battery {
     return _battery;
   }
